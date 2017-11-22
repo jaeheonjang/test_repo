@@ -1,0 +1,6 @@
+version: '2'
+services:
+  alpine:
+    image: arm64v8/alpine
+    container_name: arm64v8/alpine
+
