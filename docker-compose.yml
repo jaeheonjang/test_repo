@@ -3,3 +3,7 @@ services:
   test_alpine:
     image: alpine
     container_name: alpine
+    
+  test_ubuntu:
+    image: ubuntu
+    container_name: ubuntu
