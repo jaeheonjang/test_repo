@@ -2,7 +2,7 @@ version: '2'
 services:
   test_alpine:
     image: alpine
-    container_name: alpine
+    container_name: alpine1
     
   test_ubuntu:
     image: ubuntu
