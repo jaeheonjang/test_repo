@@ -1,5 +1,5 @@
 version: '2'
 services:
   test_alpine:
-    image: alpine
+    image: alpine:latest
     container_name: alpine
