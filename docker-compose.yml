@@ -1,5 +1,6 @@
 version: '2'
 services:
-  test_alpine:
-    image: alpine:latest
-    container_name: alpine
+  test_nginx:
+    image: nginx:latest
+    container_name: nginx
+    
